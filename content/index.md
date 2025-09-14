@@ -1,14 +1,12 @@
 ---
 title: "Shadowdark: Intro"
 created: 2025-09-14
-socialImage: 
+socialImage: ../../_data/shadowdark-logo.png
 socialDescription: OSRowy system, który jest „tym jak wyglądałoby staroszkolne granie, gdybystworzono je współcześnie”. Łączy założenia ODD z uproszczoną wersją mechaniki 5E.
 draft: false
 tags:
 ---
  
-
-
 ![[shadowdark-logo.png]]
 
 >OSRowy system, który jest „tym jak wyglądałoby staroszkolne granie, gdyby

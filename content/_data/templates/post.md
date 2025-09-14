@@ -2,7 +2,7 @@
 title: {{title}}
 created: {{date}}
 socialImage: ../../_data/
-socialDescription:
+socialDescription: "opis"
 draft: false
 tags:
 ---
