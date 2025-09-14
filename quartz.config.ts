@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Shadowdark",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    locale: "pl-PL",
+    baseUrl: "shadowdark.kostasz.pl",
+    ignorePatterns: ["private", "templates", ".obsidian", "_data/templates/*"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
