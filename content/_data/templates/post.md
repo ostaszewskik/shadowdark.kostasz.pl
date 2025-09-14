@@ -1,7 +1,7 @@
 ---
 title: {{title}}
 created: {{date}}
-socialImage:
+socialImage: ../../_data/
 socialDescription:
 draft: false
 tags:
