@@ -7,3 +7,5 @@ Mały, zawsze uśmiechnięty goblin.
 Długie uszy .
 Skryty, zazwyczaj ukrywa się za innymi.
 Bywał w dużych miastach pod ukryciem dziecka. Wygnany przez swój klan goblinów bo za dużo rzeczy ukradł.
+
+Ponoć może być wyleczony z wampiryzmy w [[Alkesh]]

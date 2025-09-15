@@ -16,6 +16,15 @@ Pochodzi on z pobliskiej małej wioski, przybył do Thraxis z ok 40 lat temu. Wy
 **Co powoduje że Thraxis cierpi z powodów ciągłych tarć na tle kulturowym/klasowym/rasowym?**
 Miasto posiada układ budynków na wzór tortu, gdzie w górnych częściach miasta mieszkają wysoko postawieni mieszkańcy miasta (urzędnicy, kupcy), w dolnej części miasta żyją drobni ludzie, biedacy, drobni kupcy, taka konstrukcja już ma pokazywać mieszkańcom gdzie ich miejsce.
 
+## Fakty
+* Miasto w dzień jest darmowe dla wszystkich, natomiast w nocy wejście jest płatne 1 sztukę srebra.
+* Brama w nocy otwarta jest tylko na południowy wschód.
+
+
+## Miejsca
+
+* [[Brudne Ostrze]]
+
 
 
 ![[thraxis2.png]]
