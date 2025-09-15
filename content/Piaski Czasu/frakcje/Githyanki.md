@@ -1,0 +1,1 @@
+Istoty spoza naszego wymiaru, astralni piraci. Spotkane w [[Wieża Xadrika]] w trakcie oblężenia. To od nich został przejęty [[Centzon]]. 

@@ -1,0 +1,1 @@
+Stymulujący narkotyk o nieznanym źródle. Rozprowadza go [[Kompania Handlowa]]

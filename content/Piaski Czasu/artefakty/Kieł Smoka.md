@@ -1,0 +1,1 @@
+Ukradziony z [[Szkielet Smoka]], oddany [[Xadrik]] jako potężny magiczny substrat. 

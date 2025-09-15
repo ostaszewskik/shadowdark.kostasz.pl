@@ -1,0 +1,1 @@
+Ponoć nie istnieją i są bajką dla dzieci. Do czas, aż gracze napotkali [[Szkielet Smoka]]. 

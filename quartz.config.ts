@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "pl-PL",
     baseUrl: "shadowdark.kostasz.pl",
-    ignorePatterns: ["private", "templates", ".obsidian", "_data/templates/*"],
+    ignorePatterns: ["private", "templates", ".obsidian", "_data/templates/*", "_ukryte"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

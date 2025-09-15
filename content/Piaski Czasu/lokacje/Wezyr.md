@@ -1,0 +1,1 @@
+Koronowany władca [[Thraxis]]. W praktyce dzieli władzę między [[Kompania Handlowa]] [[Gildia Niewolników]] i [[Bractwo Wiedzy]]. 

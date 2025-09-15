@@ -1,0 +1,1 @@
+córka [[Xadrik]]. Więziona w stanie stazy z powodu nieuleczalnej choroby. Zaniesiona do jego wewnętrznego świata 
