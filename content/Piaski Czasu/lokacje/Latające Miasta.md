@@ -4,6 +4,7 @@
 
 Inne latające miasta podane z nazwy: 
 * [[Al Nazar]] - stolica
+* [[Thraxis]] - jedyne miasto, które zdążyło wylądować w trakcie [[Kataklizm]]
 * Cromer
 * Skargness
 * Pernrith

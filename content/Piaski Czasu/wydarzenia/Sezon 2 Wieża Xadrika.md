@@ -1,3 +1,16 @@
+# Synopsis
+
+* Bohaterowie rozpoczynają przygodę w [[Sicz Sufaq]] zaraz po wydarzeniach z [[Sezon 1 Cytadela]]. Tamże dowiadują się o legendarnych [[Latające Miasta | latających miastach]].  
+* Przy [[Nieczynna Brama]] walczą z pustynnymi bandytami i doświadczają bezwględnych reguł rządzących pustynią.   
+* ​Odkrywają [[Szkielet Smoka|wykopaliska]]  ze szczątkami smoka Meoldrontha, będące pod kontrolą [[Kompania Handlowa]].
+* ​Natrafiają na mroczny [[Kult Memnona|kult]] i ratują kobietę, która ostrzega ich przed innowiercami i „owocem Drzewa Maga”.  
+* Docierają do [[Wieża Xadrika | Wieży Maga]], gdzie walczą z potworami i zawierają pakt z [[Xadrik|Architektem]] poprzez [[Alfred P09]].  
+* ​[[Farghot]] zdobywa magiczny topór "Braise", który ma swoją własną osobowość.  
+* ​[[Nafer]] całuje [[Ophelia|Driadę]], zyskując wiedzę o jej przeszłości, a [[Xadrik]] leczy Farghota z klątwy. 
+* Po epickiej bitwie i pokonaniu [[Githyanki]], bohaterowie opuszczają Wieżę na [[Centzon|statku powietrznym]] i udając się do [[Thraxis]].
+
+# Skrócony opis wydarzeń
+
 Drużyna zaczyna swoją historię w [[Sicz Sufaq]], gdzie podczas święta zwycięstwa nad [[Minotaur | Minotaurem]] słyszą od bajarza [[Ikram | Ikrama]] legendę o [[Latające Miasta | latającym zamku]] oraz zaginionym krasnoludzkim królu i jego[[Młot Władcy Krasnoludów | potężnym młocie]]. Wieści te rozpaliły wyobraźnię, a droga bohaterów od początku prowadziła ku tajemniczej Wieży Maga, gdzie kryły się odpowiedzi.
 
 Pierwsze wspólne przygody prowadzą ich przez pustynne ruiny dawnej cywilizacji, gdzie magia i technologia mieszały się w niezrozumiałą całość. Tamże odkrywają dawne [[Portale]] i mierzą się z bandytami, ledwo uchodząc z życiem. Wkrótce do grupy dołącza [[Spit Gitz]] – goblin-włóczęga, wyrzucony przez swój klan, który podróżuje w poszukiwaniu szczątków dziadka.
@@ -24,3 +37,6 @@ Następnie dotarli do laboratorium alchemicznego, gdzie walczyli z ogromnym mack
 Pod laboratorium bohaterowie trafili do Pracowni Eksperymentalnej Xadrika, gdzie główne siły Githów próbowały zabić chronioną polem siłowym [[Ophelia | driadę]] - jak się później okazało, córkę samego Xardika.  W wyniku destabilizacji osłony cała pracownia zaczęła rozpadać się i dryfować w morzu astralnym - kosmicznej pustce. Wśród dryfujących kawałków budowli, otwierających się portali do innych światów i golemów - strażników Bohaterowie zwyciężyli finałową walkę, ratując [[Ophelia]] z rąk kosmicznych najeźdźców. 
 
 Wieża Maga objawiła się drużynie nie jako ruina, lecz żywa, złowroga istota, skrywająca sekrety [[Imperium | dawnych cywilizacji]], kultu Memnona i samego Xadrika. Każdy krok ku jej sercu wymagał ofiar, a każdy sukces niósł ze sobą pokusę większej potęgi. Bohaterowie zrozumieli, że znaleźli się w centrum historii, która wykracza poza ich własne losy – opowieści o bogach, upadłych imperiach i siłach, które wciąż pragną kształtować świat.
+
+
+# Pełen zapis wydarzeń

@@ -3,8 +3,7 @@
 
 Lokalizacja: hex 709
 
-Największe miasto w [[Djurum]].  Onegdaj drugie największe z [[Latające Miasta | latających miast]]. 
-
+Największe miasto w [[Djurum]].  Onegdaj drugie największe z [[Latające Miasta | latających miast]] i jedyne, które przetrwało [[Kataklizm]], ponieważ w chwili gdy magia przestała działać, było na ziemi. 
 
 To ogromne miasto, do którego masy ludzkie i karawany ciągną ze wszystkich stron. Miasto pnie się w górę, jak wielopoziomowy tort - kolejne budynki, świątynie, wieże wznoszą się jedne nad drugimi, aż do najbardziej monumentalnego pałacu [[Wezyr]].
 Na samym szczycie miasta znajduje się wieża magów, na szczycie której znajduje się wielki opalizujący kamień, źródło dawnej mocy miasta.

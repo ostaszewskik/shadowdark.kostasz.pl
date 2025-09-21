@@ -1,0 +1,1 @@
+"Błądzi po piaskach niespokojny i prosi o przysługę. Odnajdź jego ciało i pochowaj je - tak jak godnie wojownik na to zasługuje. Nazywa się Salim El-Sham."

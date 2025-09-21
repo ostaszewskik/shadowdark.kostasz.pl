@@ -1,0 +1,1 @@
+Wydarzenie sprzed tysiąca lat, kiedy magia w [[Djurum]] przestała działać. Związana z upadkiem [[Imperium]] i rozbiciem się [[Latające Miasta]]. 
