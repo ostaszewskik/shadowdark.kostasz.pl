@@ -68,5 +68,7 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 # Feedback
 Po sesji robimy krótką rundkę [stars and wishes](https://www.gauntlet-rpg.com/blog/stars-and-wishes). Jeśli chcesz coś dodać po fakcie, użyj formularza: [kostasz.pl/rpg/feedback](https://docs.google.com/forms/d/1npMDj4rREGnCoK-GfPrUtJ1hevretPYDtsaotR5KN3M/edit)
 
-
+# Pytania?
+Jeżeli masz jakieś techniczne trudności nie wahaj się do mnie napisać na discordzie (@k_ostasz) lub w [inny sposób](https://www.kostasz.pl/kontakt/).
+W dziale [[FAQ]] omawiam najczęściej występujące problemy. 
 

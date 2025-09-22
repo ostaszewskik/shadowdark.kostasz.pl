@@ -11,7 +11,6 @@ tags:
 
 ![[01.png]]
 
-{{< image src="faq/01.png" >}}
 
 1. Kliknij dwukrotnie lewym klawiszem na swój token (lub pojedynczo na awatar na pasku dolnym obok życia).
 2. Przełącz na kartę "Inventory".
