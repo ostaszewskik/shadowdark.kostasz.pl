@@ -16,14 +16,16 @@ tags:
 
 # Założenia kampanii
 
-- Świat [Western Reaches](https://www.kickstarter.com/projects/shadowdarkrpg/western-reaches/description) 
-- Region Djurum (Red Sands) z dodatku / zina [Cursed Scroll 2](https://www.thearcanelibrary.com/collections/cursed-scroll-zine/products/cursed-scroll-zine-vol-2-red-sands)
-- otwarty stół
-- hexcrawl
-- sandbox
-- **Data:** co druga środa 
-- **Liczba graczy:** 2-5 per sesja
-- **Miejsce:** discord + FoundryVTT
+- **co:** Kampania w Shadowdark - świat [Western Reaches](https://www.kickstarter.com/projects/shadowdarkrpg/western-reaches/description), region Djurum (Red Sands) z dodatku / zina [Cursed Scroll 2](https://www.thearcanelibrary.com/collections/cursed-scroll-zine/products/cursed-scroll-zine-vol-2-red-sands)
+- **jak:**
+	- **otwarty stół** - grasz kiedy chcesz
+	- **hexcrawl** - łazimy po mapie
+	- **sandbox** - gracze sami wybierają sobie cele
+	- **kolor** - Region Djurum (Red Sands) z dodatku / zina Cursed Scroll 2, w klimacie baśni Tysiąca i Jednej Nocy
+- **kiedy:** co druga środa
+- **dla kogo:**  od 2 do 5 graczy per sesja, mogą być początkujący
+- **gdzie:** dedykowany discord + FoundryVTT
+- **szczegóły:** [[index | informacje dla nowych graczy]] 
 
 # Uwagi
 
@@ -35,10 +37,11 @@ tags:
 
 # Dla graczy
 
+> **Zapoznaj się z informacjami zawartymi we [[index | wstępie]].** 
+
 Każda z postaci w jakiś sposób powiązana jest z legendą o [[Latające Miasta | Latających Miastach]]. 
-Obejrzyj proszę poniższy film i zastanów się, co Twoja postać ma z nim wspólnego.
+Obejrzyj proszę poniższy film i poszukaj inspiracji.
 
 ![[la-puta.webp]](https://public.kostasz.pl/rpg/shadowdark/laputa-podniebny-zamek.mp4)
 
-> **Zapoznaj się również z informacjami zawartymi we [[index | wstępie]] dla nowych graczy.** 
 

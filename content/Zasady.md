@@ -1,5 +1,5 @@
 ---
-title: Houserule
+title: Houserule / interpretacja zasad
 created: 2025-09-14
 socialImage:
 socialDescription:

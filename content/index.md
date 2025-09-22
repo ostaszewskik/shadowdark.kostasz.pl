@@ -19,7 +19,6 @@ stworzono je współcześnie”. Łączy założenia ODD z uproszczoną wersją 
 >Opowieść o znoju codzienności, trudach podróży i uciekaniu przed smokiem zostawiając księżniczkę na pastwę losu\...
 
 
-
 Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, zasad i dziennika kampanii w systemie Shadowdark.
 
 # Informacja dla nowych graczy
@@ -28,27 +27,30 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 1. Przeczytaj skrót zasad (*Cheat Shee*t - 2 strony A4) i przekartkuj podstawowe zasady gry (*Quickstart*) - wszystkie materiały dostępne na [Dysku Googla](https://drive.google.com/drive/folders/19nuvyYAhCpQs8IsSgbdFHkMfyEehNpv2?usp=drive_link)
 2. Przejrzyj (ale nie czytaj szczegółowo) [dziennik kampanii](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?usp=sharing),  zwróć zwłaszcza uwagę  na ostatnią sesję.
 3. Zobacz aktywne [[Questy]].
-4. Stwórz postać ([[#Tworzenie postaci|instrukcja]] poniżej)
+4. Stwórz postać ([[#Tworzenie postaci|instrukcja]] poniżej).
 5. Umów się na grę:
 	* Gramy co drugą środę. 
-	* Sesje umawiamy na [Discordzie](https://discord.com/invite/5g9BE9swUR) na kanale  \#🗓️terminy-sesji. 
+	* Sesje umawiamy na [Discordzie](https://discord.com/invite/5g9BE9swUR) na kanale  `#📅┃terminy-sesji`. 
+	* Jeśli chcesz dostawać powiadomienia o nadchodzących grach nadaj sobie rolę @shadowdark na kanale `#🎭┃nadaj-role`.
 	* Sesje są ogłaszane na 6 tygodni do przodu, co środę. 
 	* Oznacz się ikonką ✅ jeśli chcesz grać w wybranym terminie.
-	* Oznacz się ikonką ?, jeśli podejrzewasz, że możesz mieć problem z terminem, ale chcesz grać / być na liście rezerwowej.
-	* Oznacz się  ikonką 🚫, jeśli deklarowałeś, że będziesz, ale zmieniły Ci się plany.
+	* Oznacz się ikonką ❔, jeśli podejrzewasz, że możesz mieć problem z terminem, ale chcesz grać / być na liście rezerwowej.
+	* Oznacz się  ikonką ❌, jeśli deklarowałeś, że będziesz, ale zmieniły Ci się plany.
+	* Kwestie organizacyjne (opóźnienia, przesunięcia etc.) omawiamy w wątku dotyczącym konkretnej sesji na `#📅┃terminy-sesji`.
 
 ## W trakcie gry
 1. Spotykamy się na kanale głosowym [Discorda](https://discord.com/invite/5g9BE9swUR). Mile widziane granie na kamerze.
-2. Używamy wirtualnego stołu [Foundry VTT](https://vtt.kostasz.pl/) do map i kart postaci.
+2. Używamy wirtualnego stołu [Foundry VTT](https://vtt.kostasz.pl/) do map, kart postaci, rzutów kośćmi.
 3. Do zapisywania bieżących wydarzeń w przygodzie / notatek dla graczy jest [Google Docs](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?tab=t.0#heading=h.n53wzr4wioay) 
 4. Okazjonalnie oglądamy w ramach wstępu / przerywnika fragment wideo na [Watch2Gether](https://w2g.tv/?r=dmofrlocu9eezq5eh9)
-5. Materiały i linki do aktualnej przygody są wrzucane na Discord na kanale \#🔥shadowdark.
+5. Materiały i linki do aktualnej przygody są wrzucane na Discord na kanale `#🔥┃shadowdark` lub Foundry.
 
 ## Po grze
-1. Na koniec sesji zapisujemy w dzienniku możliwe dalsze działania fabularne - questy / zahaczki. To też dobry moment na spisanie na świeżo punktowo wydarzeń z gry. Ważniejsze   miejsca / postacie będą przeze mnie przepisane z dziennika do wiki (ta strona).
+1. Na koniec sesji zapisujemy w dzienniku możliwe dalsze działania fabularne - questy / zahaczki. To też dobry moment na spisanie na świeżo punktowo wydarzeń z gry. Ważniejsze  miejsca / postacie będą przeze mnie przepisane z dziennika do wiki (ta strona).
 2. Jeśli masz czas, zostań chwilę po sesji - rozmawiamy jeszcze chwilę o tym, co nam się podobało a czego chcemy więcej ( [stars and wishes](https://www.gauntlet-rpg.com/blog/stars-and-wishes)).
-3. Jeśli nie masz czasu / przestrzeni na feedback ustny, możesz użyć formularza: [kostasz.pl/rpg/feedback](https://docs.google.com/forms/d/1npMDj4rREGnCoK-GfPrUtJ1hevretPYDtsaotR5KN3M/edit)
-4. 
+3. Jeśli nie masz czasu / przestrzeni na feedback ustny, a chcesz mi o czymś powiedzieć, możesz użyć formularza: [kostasz.pl/rpg/feedback](https://docs.google.com/forms/d/1npMDj4rREGnCoK-GfPrUtJ1hevretPYDtsaotR5KN3M/edit).
+4. Był problem z obsługą Foundry? Dopiszmy poradnik do [[FAQ]]. Jakaś zasada nie była przejrzysta? Sklaryfikujmy ją w [[Zasady]]. 
+5. Chcesz się podzielić ciekawym dodatkiem do systemu, przemyśleniami? Pisz śmiało na `#💬┃pogadane`.
 
 
 
