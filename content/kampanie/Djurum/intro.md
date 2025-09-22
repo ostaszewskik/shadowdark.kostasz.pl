@@ -31,7 +31,7 @@ tags:
 
 - **dla graczy 18+** 
 - Shadowdark: "zmodernizowanie granie staroszkolne" - OSRowy system na mechanice będącej połączeniem uproszczonych zasad DnD 5E i ODD. 
-- świat i klimat: typowe sword & sorcery z możliwością dodawania fabuły przez graczy. Wyruszacie na przygodę szukać skarbów, chwały i władzy.
+- świat i klimat: typowe sword & sorcery z możliwością dodawania fabuły przez graczy. Wyruszacie na przygodę szukać skarbów, chwały i władzy... lub prywatnych pobudek.
 - TO JEST OSR. ISTNIEJE DUŻE RYZYKO, ŻE POSTACIE GRACZY UMRĄ (wtedy tworzycie nowe i gracie dalej). MECHANIKA JEST PROSTA "by design", wymagająca modyfikacji ad hoc. ROLEPLAY JEST NIEWYMUSZONY I SYTUACYJNY. 
 - **triggery**: przemoc, wulgarny język, sekciarstwo, używki, body horror. BHS: Karta X, Linie i zasłony 
 
@@ -40,8 +40,6 @@ tags:
 > **Zapoznaj się z informacjami zawartymi we [[index | wstępie]].** 
 
 Każda z postaci w jakiś sposób powiązana jest z legendą o [[Latające Miasta | Latających Miastach]]. 
-Obejrzyj proszę poniższy film i poszukaj inspiracji.
+Obejrzyj proszę poniższy film dla inspiracji. Następnie [[index#Tworzenie postaci | stwórz / wylosuj]] postać i zastanów się, co ona ma wspólnego z Legendą. 
 
 ![[la-puta.webp]](https://public.kostasz.pl/rpg/shadowdark/laputa-podniebny-zamek.mp4)
-
-
