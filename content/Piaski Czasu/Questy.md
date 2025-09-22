@@ -28,5 +28,6 @@ Lista aktywnych zadań / zahaczek fabularnych dla graczy (kolejność względem 
 # Plotki
 
 * Najpotężniejszy z [[Portale | portali]] do innych światów  znajduje się w dalekich górach na wschodzie. Jest elementem tajemnicy upadku [[Imperium]].
-* Daleko w górach na północnym wschodzie znajduje się [[Młot Władcy Krasnoludów]]  
+* Daleko w górach na północnym wschodzie znajduje się [[Młot Władcy Krasnoludów]] - obiekt pożądania [[Farghot]].
+* Ponoć siedzibą główną [[Asasyni |asasynów Ras-goadi]] jest monastyr, który kryje się w jakimś kanionie w północnych górach. [[Kampania Handlowa]] ma z nimi na pieńku i chętnie by się dowiedzieli, gdzie jest ten monastyr (zasłyszane przez [[Rodr]]).
 
