@@ -40,5 +40,5 @@ Obejrzyj proszę poniższy film i zastanów się, co Twoja postać ma z nim wsp�
 
 ![[la-puta.webp]](https://public.kostasz.pl/rpg/shadowdark/laputa-podniebny-zamek.mp4)
 
-**Zapoznaj się również z informacjami zawartymi we [[index | wstępie]] dla nowych graczy.** 
+> **Zapoznaj się również z informacjami zawartymi we [[index | wstępie]] dla nowych graczy.** 
 

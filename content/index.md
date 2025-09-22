@@ -22,17 +22,35 @@ stworzono je współcześnie”. Łączy założenia ODD z uproszczoną wersją 
 
 Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, zasad i dziennika kampanii w systemie Shadowdark.
 
-# Info i linki
-1. Informacje o systemie, klimacie gry, założeniach w skrótowej formie:  [Shadowdark Onepager](Shadowdark_OnePager_v1-4_START.pdf)
-2. Materiały do gry, podręczniki, dodatki i skrót zasad (Cheat Sheet): [Dysk](https://drive.google.com/drive/folders/19nuvyYAhCpQs8IsSgbdFHkMfyEehNpv2?usp=drive_link)
-3. Wirtualny stół (VTT): [Foundry VTT: vtt.kostasz.pl](https://vtt.kostasz.pl/) <- **każdy użytkownik ma "puste" hasło**
-4. Serwer Discorda: [discord.gg/5g9BE9swUR](https://discord.gg/5g9BE9swUR) 
-5. Watch2Gether pokój (do oglądania cutscenek): [https://w2g.tv/?r=dmofrlocu9eezq5eh9](https://w2g.tv/?r=dmofrlocu9eezq5eh9)
-6. Google docs z zapiskami aktualnej przygody: [Dziennik: Dotychczasowe Kampanie](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?tab=t.0#heading=h.n53wzr4wioay) 
-7. Przydatne linki, tabele losowe: [[Addeneum]]
-8. [Wersja online prezentacji systemu](https://www.kostasz.pl/p/shadowdark-prezentacja-systemu/)
-9. Najczęściej zadawane pytania: [[FAQ]]
-10. Zasady domowe / modyfikacje: [[Houserule]]
+# Informacja dla nowych graczy
+
+## Przed grą
+1. Przeczytaj skrót zasad (*Cheat Shee*t - 2 strony A4) i przekartkuj podstawowe zasady gry (*Quickstart*) - wszystkie materiały dostępne na [Dysku Googla](https://drive.google.com/drive/folders/19nuvyYAhCpQs8IsSgbdFHkMfyEehNpv2?usp=drive_link)
+2. Przejrzyj (ale nie czytaj szczegółowo) [dziennik kampanii](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?usp=sharing),  zwróć zwłaszcza uwagę  na ostatnią sesję.
+3. Zobacz aktywne [[Questy]].
+4. Stwórz postać ([[#Tworzenie postaci|instrukcja]] poniżej)
+5. Umów się na grę:
+	* Gramy co drugą środę. 
+	* Sesje umawiamy na [Discordzie](https://discord.com/invite/5g9BE9swUR) na kanale  \#🗓️terminy-sesji. 
+	* Sesje są ogłaszane na 6 tygodni do przodu, co środę. 
+	* Oznacz się ikonką ✅ jeśli chcesz grać w wybranym terminie.
+	* Oznacz się ikonką ?, jeśli podejrzewasz, że możesz mieć problem z terminem, ale chcesz grać / być na liście rezerwowej.
+	* Oznacz się  ikonką 🚫, jeśli deklarowałeś, że będziesz, ale zmieniły Ci się plany.
+
+## W trakcie gry
+1. Spotykamy się na kanale głosowym [Discorda](https://discord.com/invite/5g9BE9swUR). Mile widziane granie na kamerze.
+2. Używamy wirtualnego stołu [Foundry VTT](https://vtt.kostasz.pl/) do map i kart postaci.
+3. Do zapisywania bieżących wydarzeń w przygodzie / notatek dla graczy jest [Google Docs](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?tab=t.0#heading=h.n53wzr4wioay) 
+4. Okazjonalnie oglądamy w ramach wstępu / przerywnika fragment wideo na [Watch2Gether](https://w2g.tv/?r=dmofrlocu9eezq5eh9)
+5. Materiały i linki do aktualnej przygody są wrzucane na Discord na kanale \#🔥shadowdark.
+
+## Po grze
+1. Na koniec sesji zapisujemy w dzienniku możliwe dalsze działania fabularne - questy / zahaczki. To też dobry moment na spisanie na świeżo punktowo wydarzeń z gry. Ważniejsze   miejsca / postacie będą przeze mnie przepisane z dziennika do wiki (ta strona).
+2. Jeśli masz czas, zostań chwilę po sesji - rozmawiamy jeszcze chwilę o tym, co nam się podobało a czego chcemy więcej ( [stars and wishes](https://www.gauntlet-rpg.com/blog/stars-and-wishes)).
+3. Jeśli nie masz czasu / przestrzeni na feedback ustny, możesz użyć formularza: [kostasz.pl/rpg/feedback](https://docs.google.com/forms/d/1npMDj4rREGnCoK-GfPrUtJ1hevretPYDtsaotR5KN3M/edit)
+4. 
+
+
 
 # Konwencja,  styl,  gatunek
 * _Sword & Sorcery:_ Jesteś poszukiwaczem przygód dokonującym niezwykłych rzeczy. Nawet jeśli tą niezwykłą rzeczą jest uciekanie w popłochu przed bazyliszkiem i zgubienie wideł po drodze. 
@@ -42,6 +60,9 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 * _Open table:_ grasz, kiedy możesz. Nowi gracze są włączani jak najszybciej do przygody. Uznajemy, że postacie graczy mogą sobie wzajemnie zaufać i wspólnie spełniać swoje cele. Skracamy do minimum czas do zawiązania drużyny. Nieobecne osoby po prostu znikają w tle - nie tłumaczymy na siłę co się z nimi stało. To gra z wieloma ludźmi o różnym grafiku i wymaga kompromisów. 
 * _Hexcrawl._ Zwiedzamy świat korzystając z mapy - zawsze dostępnej w zakładce na VTT. W miarę otrzymywania wskazówek / pogłosek na mapie pojawiają się nowe znaczniki. 
 * _Sandbox._ Sytuacja startowa nie ma predefiniowanej fabuły. Podążamy za wyborami drużyny i wspólnie tworzymy opowieść. Gracze mogą dokładać informacje do fikcji, jeśli mają w danej dziedzinie kompetencje. 
+
+
+
 
 # Tworzenie postaci
 1. Stwórz postać korzystając z generatora [https://shadowdarklings.net](https://shadowdarklings.net/settings/sources=CS2,RB,SD,SG&ancestries=1,2,3,4,5,6,7&classes=1,2,3,4,10,11,12,5,6,23) (najlepiej stwórz konto i zapisz ją sobie). Użyj źródeł adekwatnych dla aktualnej kampanii (opis i link na początku dokumentu w dzienniku).
@@ -64,9 +85,6 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 
 # BHS
 [Karta X](https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A/edit?tab=t.0), [Lines and Veils](https://rpg.stackexchange.com/questions/30906/what-do-the-terms-lines-and-veils-mean). Każda nowa przygoda ma wymienione co bardziej prawdopodobne triggery. Jeśli jakieś posiadasz, zgłoś to proszę przed sesją publicznie lub w prywatnej wiadomości. 
-
-# Feedback
-Po sesji robimy krótką rundkę [stars and wishes](https://www.gauntlet-rpg.com/blog/stars-and-wishes). Jeśli chcesz coś dodać po fakcie, użyj formularza: [kostasz.pl/rpg/feedback](https://docs.google.com/forms/d/1npMDj4rREGnCoK-GfPrUtJ1hevretPYDtsaotR5KN3M/edit)
 
 # Pytania?
 Jeżeli masz jakieś techniczne trudności nie wahaj się do mnie napisać na discordzie (@k_ostasz) lub w [inny sposób](https://www.kostasz.pl/kontakt/).
