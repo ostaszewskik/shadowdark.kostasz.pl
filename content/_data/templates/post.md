@@ -1,8 +1,6 @@
 ---
-title:
-  "{ title }":
-created:
-  "{ date }":
+title: {{title}}
+created: {{date}}
 socialImage: ../../_data/
 socialDescription:
 draft: false

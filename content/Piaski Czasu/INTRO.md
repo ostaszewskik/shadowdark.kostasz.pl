@@ -1,4 +1,11 @@
-
+---
+title: "Shadowdark: Piaski Czasu - INTRO"
+created: 2025-08-13
+socialImage: ../../_data/Djurum-Piaski-Czasu.webp
+socialDescription:
+draft: false
+tags:
+---
 ![[Djurum-Piaski-Czasu.webp]]
 
 > Zapraszam chętnych śmiałków do przeżywania przygód  w pustynnym świecie rodem z baśni Tysiąca i Jednej Nocy, pełnego diabłów pustyni, dżinów, bandytów napadających na wielbłądzie karawany, intryg i przede wszystkim - skarbów do zdobycia. Czy uda Wam się odkryć tajemnicę upadku Imperium? Czy odnajdziecie potężne artefakty rozrzucone po jego piaszczystych krańcach? A może napotkacie mityczny Bicz Pustyni?
