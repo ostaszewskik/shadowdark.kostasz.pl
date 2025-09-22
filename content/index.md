@@ -21,12 +21,22 @@ stworzono je współcześnie”. Łączy założenia ODD z uproszczoną wersją 
 
 Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, zasad i dziennika kampanii w systemie Shadowdark.
 
+# Konwencja,  styl,  gatunek
+* _Sword & Sorcery:_ Jesteś poszukiwaczem przygód dokonującym niezwykłych rzeczy. Nawet jeśli tą niezwykłą rzeczą jest uciekanie w popłochu przed bazyliszkiem i zgubienie wideł po drodze. 
+* _Low magic_: Przedmioty magiczne są rzadkością. Magia jest potężna.
+* _Klimat._ Wbrew nazwie, nie prowadzę w stylu _grimdark_ - styl rozgrywki nie jest ciężki w formie, choć czasem może być w treści. 
+* _Śmiertelność_ nie musi być wysoka, zwłaszcza od 2-3 levelu. Zagrożenia są telegrafowane. Pech na kościach się zdarza, wtedy cóż - losujesz nową postać. 
+* _Open table:_ grasz, kiedy możesz. Nowi gracze są włączani jak najszybciej do przygody. Uznajemy, że postacie graczy mogą sobie wzajemnie zaufać i wspólnie spełniać swoje cele. Skracamy do minimum czas do zawiązania drużyny. Nieobecne osoby po prostu znikają w tle - nie tłumaczymy na siłę co się z nimi stało. To gra z wieloma ludźmi o różnym grafiku i wymaga kompromisów. 
+* _Hexcrawl._ Zwiedzamy świat korzystając z mapy - zawsze dostępnej w zakładce na VTT. W miarę otrzymywania wskazówek / pogłosek na mapie pojawiają się nowe znaczniki. 
+* _Sandbox._ Sytuacja startowa nie ma predefiniowanej fabuły. Podążamy za wyborami drużyny i wspólnie tworzymy opowieść. Gracze mogą dokładać informacje do fikcji, jeśli mają w danej dziedzinie kompetencje. 
+
+
 # Informacja dla nowych graczy
 
 ## Przed grą
 1. Przeczytaj skrót zasad (*Cheat Shee*t - 2 strony A4) i przekartkuj podstawowe zasady gry (*Quickstart*) - wszystkie materiały dostępne na [Dysku Googla](https://drive.google.com/drive/folders/19nuvyYAhCpQs8IsSgbdFHkMfyEehNpv2?usp=drive_link)
 2. Przejrzyj (ale nie czytaj szczegółowo) [dziennik kampanii](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?usp=sharing),  zwróć zwłaszcza uwagę  na ostatnią sesję.
-3. Zobacz aktywne [[Questy]].
+3. Zobacz aktywne [[questy]].
 4. Stwórz postać ([[#Tworzenie postaci|instrukcja]] poniżej).
 5. Umów się na grę:
 	* Gramy co drugą środę. 
@@ -49,22 +59,8 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 1. Na koniec sesji zapisujemy w dzienniku możliwe dalsze działania fabularne - questy / zahaczki. To też dobry moment na spisanie na świeżo punktowo wydarzeń z gry. Ważniejsze  miejsca / postacie będą przeze mnie przepisane z dziennika do wiki (ta strona).
 2. Jeśli masz czas, zostań chwilę po sesji - rozmawiamy jeszcze chwilę o tym, co nam się podobało a czego chcemy więcej ( [stars and wishes](https://www.gauntlet-rpg.com/blog/stars-and-wishes)).
 3. Jeśli nie masz czasu / przestrzeni na feedback ustny, a chcesz mi o czymś powiedzieć, możesz użyć formularza: [kostasz.pl/rpg/feedback](https://docs.google.com/forms/d/1npMDj4rREGnCoK-GfPrUtJ1hevretPYDtsaotR5KN3M/edit).
-4. Był problem z obsługą Foundry? Dopiszmy poradnik do [[FAQ]]. Jakaś zasada nie była przejrzysta? Sklaryfikujmy ją w [[Zasady]]. 
+4. Był problem z obsługą Foundry? Dopiszmy poradnik do [[FAQ]]. Jakaś zasada nie była przejrzysta? Sklaryfikujmy ją w [[zasady]]. 
 5. Chcesz się podzielić ciekawym dodatkiem do systemu, przemyśleniami? Pisz śmiało na `#💬┃pogadane`.
-
-
-
-# Konwencja,  styl,  gatunek
-* _Sword & Sorcery:_ Jesteś poszukiwaczem przygód dokonującym niezwykłych rzeczy. Nawet jeśli tą niezwykłą rzeczą jest uciekanie w popłochu przed bazyliszkiem i zgubienie wideł po drodze. 
-* _Low magic_: Przedmioty magiczne są rzadkością. Magia jest potężna.
-* _Klimat._ Wbrew nazwie, nie prowadzę w stylu _grimdark_ - styl rozgrywki nie jest ciężki w formie, choć czasem może być w treści. 
-* _Śmiertelność_ nie musi być wysoka, zwłaszcza od 2-3 levelu. Zagrożenia są telegrafowane. Pech na kościach się zdarza, wtedy cóż - losujesz nową postać. 
-* _Open table:_ grasz, kiedy możesz. Nowi gracze są włączani jak najszybciej do przygody. Uznajemy, że postacie graczy mogą sobie wzajemnie zaufać i wspólnie spełniać swoje cele. Skracamy do minimum czas do zawiązania drużyny. Nieobecne osoby po prostu znikają w tle - nie tłumaczymy na siłę co się z nimi stało. To gra z wieloma ludźmi o różnym grafiku i wymaga kompromisów. 
-* _Hexcrawl._ Zwiedzamy świat korzystając z mapy - zawsze dostępnej w zakładce na VTT. W miarę otrzymywania wskazówek / pogłosek na mapie pojawiają się nowe znaczniki. 
-* _Sandbox._ Sytuacja startowa nie ma predefiniowanej fabuły. Podążamy za wyborami drużyny i wspólnie tworzymy opowieść. Gracze mogą dokładać informacje do fikcji, jeśli mają w danej dziedzinie kompetencje. 
-
-
-
 
 # Tworzenie postaci
 1. Stwórz postać korzystając z generatora [https://shadowdarklings.net](https://shadowdarklings.net/settings/sources=CS2,RB,SD,SG&ancestries=1,2,3,4,5,6,7&classes=1,2,3,4,10,11,12,5,6,23) (najlepiej stwórz konto i zapisz ją sobie). Użyj źródeł adekwatnych dla aktualnej kampanii (opis i link na początku dokumentu w dzienniku).

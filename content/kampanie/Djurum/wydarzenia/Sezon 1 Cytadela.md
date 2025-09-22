@@ -30,7 +30,7 @@ W grze wzięło udział kilku bohaterów, z których najważniejsi to:
 
 - **Początek w Cytadeli**: Drużyna wkracza do [[Cytadela |Cytadeli]], natrafiając na ślady starożytnych cywilizacji i kultu byka. Walczy z faunopodobnymi stworzeniami i odkrywa ukryte przejścia oraz pomieszczenia.
     
-- **Wizje i rytuały**: Bohaterowie doświadczają wizji, które ujawniają historię Cytadeli. Dowiadują się o upadku [[imperium]], o ostatnim władcy [[Minoros | Minorosie]], który popadł w szaleństwo po rytuale, oraz o pochodzeniu [[zwierzoludzie | bestiołudzi]], które służą [[Minotaur | minotaurowi]]. Wizje odkrywają również miejsce ukrycia serca minotaura.
+- **Wizje i rytuały**: Bohaterowie doświadczają wizji, które ujawniają historię Cytadeli. Dowiadują się o upadku [[Imperium]], o ostatnim władcy [[Minoros | Minorosie]], który popadł w szaleństwo po rytuale, oraz o pochodzeniu [[zwierzoludzie | bestiołudzi]], które służą [[Minotaur | minotaurowi]]. Wizje odkrywają również miejsce ukrycia serca minotaura.
     
 - **Intrygi i walki**: W trakcie podróży drużyna spotyka tubylców z oazy, z którymi nawiązuje kontakt. Walczy z orkami i innymi potworami. Bazgroł zdobywa sławę "proroka", ale szybko traci wiarygodność. Bohaterowie ostatecznie trafiają do więzienia zwierzołudzi, ale uciekają z pomocą strażników.
     

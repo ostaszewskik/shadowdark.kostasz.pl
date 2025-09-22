@@ -1,5 +1,5 @@
 ---
-title: "Shadowdark: Piaski Czasu - INTRO"
+title: "Shadowdark East Marches: Djurum"
 created: 2025-08-13
 socialImage: ../../_data/Djurum-Piaski-Czasu.webp
 socialDescription:
@@ -16,12 +16,12 @@ tags:
 
 # Założenia kampanii
 
-- **co:** Kampania w Shadowdark - świat [Western Reaches](https://www.kickstarter.com/projects/shadowdarkrpg/western-reaches/description), region Djurum (Red Sands) z dodatku / zina [Cursed Scroll 2](https://www.thearcanelibrary.com/collections/cursed-scroll-zine/products/cursed-scroll-zine-vol-2-red-sands)
+- **co:** Kampania w [Shadowdark](https://www.thearcanelibrary.com/pages/shadowdark)
 - **jak:**
 	- **otwarty stół** - grasz kiedy chcesz
-	- **hexcrawl** - łazimy po mapie
+	- **hexcrawl** - przemieszczamy się po mapie
 	- **sandbox** - gracze sami wybierają sobie cele
-	- **kolor** - Region Djurum (Red Sands) z dodatku / zina Cursed Scroll 2, w klimacie baśni Tysiąca i Jednej Nocy
+	- **kolor** - region Djurum (Red Sands) z dodatku / zina [Cursed Scroll 2](https://www.thearcanelibrary.com/collections/cursed-scroll-zine/products/cursed-scroll-zine-vol-2-red-sands), w klimacie baśni Tysiąca i Jednej Nocy
 - **kiedy:** co druga środa
 - **dla kogo:**  od 2 do 5 graczy per sesja, mogą być początkujący
 - **gdzie:** dedykowany discord + FoundryVTT
