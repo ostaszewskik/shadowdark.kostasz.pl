@@ -8,7 +8,7 @@ tags:
 ---
 
 
-![[quest-giver.webp]]
+![[questy.webp]]
 
 # Aktywne questy
 Lista aktywnych zadań / zahaczek fabularnych dla graczy (kolejność względem pojawiania się w przygodzie):
