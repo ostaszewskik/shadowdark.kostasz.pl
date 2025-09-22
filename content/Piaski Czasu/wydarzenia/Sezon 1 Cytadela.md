@@ -2,13 +2,13 @@
 
 # Podsumowanie kampanii
 
-
-| Ilość sesji | 11  |
-| ----------- | --- |
-| gracze      | 7   |
-| postacie    | 9   |
-| zgony       | 3   |
-| suma XP     | 149 |
+| okres gry   | 14.02.2024 - 31.07.2024 |
+| ----------- | ----------------------- |
+| Ilość sesji | 11                      |
+| gracze      | 7                       |
+| postacie    | 9                       |
+| zgony       | 3                       |
+| suma XP     | 149                     |
 Link do pełnego dziennika kampanii: [Google Docs](https://docs.google.com/document/d/1h1nDSHfSDg_WT5n8XOuoTEPujSbbB1m2atb5p9ujtfs/edit?usp=sharing)
 
 # Kluczowe postacie i ich motywacje

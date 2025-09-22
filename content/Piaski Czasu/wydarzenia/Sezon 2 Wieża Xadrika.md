@@ -1,3 +1,14 @@
+# Podsumowanie kampanii
+
+| okres gry   | 28.08.2024 - 16.07.2025 |
+| ----------- | ----------------------- |
+| Ilość sesji | 18                      |
+| gracze      | 13                      |
+| postacie    | 13                      |
+| zgony       | 1                       |
+
+Link do pełnego dziennika kampanii: [Google Docs](https://docs.google.com/document/d/1EI5nQfx0z5KCXJBD47OmpWLuTUPTpkwOREtZY4YE4Hg/edit?usp=sharing)
+
 # Synopsis
 
 * Bohaterowie rozpoczynają przygodę w [[Sicz Sufaq]] zaraz po wydarzeniach z [[Sezon 1 Cytadela]]. Tamże dowiadują się o legendarnych [[Latające Miasta | latających miastach]].  
@@ -38,5 +49,3 @@ Pod laboratorium bohaterowie trafili do Pracowni Eksperymentalnej Xadrika, gdzie
 
 Wieża Maga objawiła się drużynie nie jako ruina, lecz żywa, złowroga istota, skrywająca sekrety [[Imperium | dawnych cywilizacji]], kultu Memnona i samego Xadrika. Każdy krok ku jej sercu wymagał ofiar, a każdy sukces niósł ze sobą pokusę większej potęgi. Bohaterowie zrozumieli, że znaleźli się w centrum historii, która wykracza poza ich własne losy – opowieści o bogach, upadłych imperiach i siłach, które wciąż pragną kształtować świat.
 
-
-# Pełen zapis wydarzeń
