@@ -22,6 +22,7 @@ Miasto posiada układ budynków na wzór tortu, gdzie w górnych częściach mia
 
 ## Miejsca
 
+* [[Arena Gladiatorów]]
 * [[Brudne Ostrze]]
 
 

@@ -17,6 +17,8 @@ Lista aktywnych zadań / zahaczek fabularnych dla graczy (kolejność względem 
 - [ ] [[Wyjące Jaskinie]] - dostarczenie potężnej księgi z wiedzą tajemna dla [[Amar]]  
 - [ ] Wioska gdzie niby można wyleczyć [[Spit Gitz]], która znajduje się na południowy wschód
 - [ ] Odnalezienie i pochowanie zwłok [[Duch Pustyni |Ducha  Pustyni]]
+- [ ] *Królewski Wielbłąd, jutro godzina 15:00, płacimy złotem* - informacja z karteczki wręczonej [[Rodr]] i [[Nafer]] przez lokalnych żebraków i rzezimieszków. 
+- [ ] Podjęcie wyzwania [[Farghot]] przez [[Borubar]] do walki na [[Arena Gladiatorów]]
 
 
 # Zakończone wątki
