@@ -30,7 +30,7 @@ W grze wzięło udział kilku bohaterów, z których najważniejsi to:
 
 - **Początek w Cytadeli**: Drużyna wkracza do [[Cytadela |Cytadeli]], natrafiając na ślady starożytnych cywilizacji i kultu byka. Walczy z faunopodobnymi stworzeniami i odkrywa ukryte przejścia oraz pomieszczenia.
     
-- **Wizje i rytuały**: Bohaterowie doświadczają wizji, które ujawniają historię Cytadeli. Dowiadują się o upadku [[imperium]], o ostatnim władcy [[Minoros | Minorosie]], który popadł w szaleństwo po rytuale, oraz o pochodzeniu [[zwierzoludzie | bestiołudzi]], które służą [[Minotaur | minotaurowi]]. Wizje odkrywają również miejsce ukrycia serca minotaura.
+- **Wizje i rytuały**: Bohaterowie doświadczają wizji, które ujawniają historię Cytadeli. Dowiadują się o upadku [[Imperium]], o ostatnim władcy [[Minoros | Minorosie]], który popadł w szaleństwo po rytuale, oraz o pochodzeniu [[zwierzoludzie | bestiołudzi]], które służą [[Minotaur | minotaurowi]]. Wizje odkrywają również miejsce ukrycia serca minotaura.
     
 - **Intrygi i walki**: W trakcie podróży drużyna spotyka tubylców z oazy, z którymi nawiązuje kontakt. Walczy z orkami i innymi potworami. Bazgroł zdobywa sławę "proroka", ale szybko traci wiarygodność. Bohaterowie ostatecznie trafiają do więzienia zwierzołudzi, ale uciekają z pomocą strażników.
     
@@ -55,4 +55,4 @@ Bohaterowie mieli kilka wizji, które ujawniały historię Cytadeli oraz motywac
 * **Rywalizacja Dżinów**: Starsi plemienia opowiedzieli bohaterom legendę o [[Gasper i Jashik|dwóch braciach dżinach]], Gasparze i Jashiku, wygnanych przez ojca i walczących ze sobą od stuleci o powrót do domu. Ta walka wywołuje burze piaskowe. 
 * **Śmierć herszta  orków**: Podczas podróży powrotnej bohaterowie natrafili na zasadzkę orków z plemienia [[Pustynne Szczury | Pustynnych Szczurów]]. Zdołali ich pokonać, a [[Farghot]] odciął głowę herszta, co przyniosło im 10% rabatu w sklepach w Oazie.
 - **Pochodzenie [[Minotaur | minotaura]]**: Bohaterowie odkryli, że minotaur nie był potworem od początku. Był to [[Minoros]], ostatni władca [[Cytadela | Cytadeli]], który popadł w szaleństwo po nieudanym rytuale. W pogoni za boską mocą doprowadził do zagłady swojego ludu., a jego ciało przekształciło się w minotaura, serce zaś zostało umieszczone w tabernakulum w agorze Cytadeli gwarantując jego nieśmiertelność. Tragedia ta była podwaliną[[[Upadek Imperium | upadku imperium]] .
-- **Stworzenie [[zwierzoludzie | zwierzołudzi]]**: Wizje ujawniły, że bestiołudzie to dawni mieszkańcy Cytadeli, którzy ulegli klątwie po nieudanym rytuale Minorosa. Dusze ofiar rzuciły się na pozostałych ludzi, przemieniając ich w potwory i sługi minotaura.
+- **Stworzenie [[zwierzoludzie | zwierzoludzi]]**: Wizje ujawniły, że bestiołudzie to dawni mieszkańcy Cytadeli, którzy ulegli klątwie po nieudanym rytuale Minorosa. Dusze ofiar rzuciły się na pozostałych ludzi, przemieniając ich w potwory i sługi minotaura.

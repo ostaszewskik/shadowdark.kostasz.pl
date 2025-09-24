@@ -1,1 +1,0 @@
-Cały opisany region, w którym dzieje się kampania Piaski Czasu. 
