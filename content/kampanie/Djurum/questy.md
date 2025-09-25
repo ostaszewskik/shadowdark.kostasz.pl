@@ -19,6 +19,7 @@ Lista aktywnych zadań / zahaczek fabularnych dla graczy (kolejność względem 
 - [ ] Odnalezienie i pochowanie zwłok [[Duch Pustyni |Ducha  Pustyni]]
 - [ ] *Królewski Wielbłąd, jutro godzina 15:00, płacimy złotem* - informacja z karteczki wręczonej [[Rodr]] i [[Nafer]] przez lokalnych żebraków i rzezimieszków. 
 - [ ] Podjęcie wyzwania [[Farghot]] przez [[Borubar]] do walki na [[Arena Gladiatorów]]
+- [ ] [[Rodr]] dostaje ofertę od kontaktu z [[Kompania Handlowa]] aby [[Farghot]] poddał walkę w zamian za 200gp... lub coś, czego pragnie. 
 
 
 # Zakończone wątki
