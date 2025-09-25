@@ -52,8 +52,9 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 1. Spotykamy się na kanale głosowym [Discorda](https://discord.com/invite/5g9BE9swUR). Mile widziane granie na kamerze.
 2. Używamy wirtualnego stołu [Foundry VTT](https://vtt.kostasz.pl/) do map, kart postaci, rzutów kośćmi.
 3. Do zapisywania bieżących wydarzeń w przygodzie / notatek dla graczy jest [Google Docs](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?tab=t.0#heading=h.n53wzr4wioay) 
-4. Okazjonalnie oglądamy w ramach wstępu / przerywnika fragment wideo na [Watch2Gether](https://w2g.tv/?r=dmofrlocu9eezq5eh9)
-5. Materiały i linki do aktualnej przygody są wrzucane na Discord na kanale `#🔥┃shadowdark` lub Foundry.
+4. Do zaznaczania notatek na mapie używamy [Google Presentations](https://docs.google.com/presentation/d/1qREd50_JDqp5YKl8Gc1VJ2AZ2c_Us2fKcjNJmbGmIP0/edit?usp=sharing) (1 slajd z mapą, po której można mazać i notować).
+5. Okazjonalnie oglądamy w ramach wstępu / przerywnika fragment wideo na [Watch2Gether](https://w2g.tv/?r=dmofrlocu9eezq5eh9)
+6. Materiały i linki do aktualnej przygody są wrzucane na Discord na kanale `#🔥┃shadowdark` lub Foundry.
 
 ## Po grze
 1. Na koniec sesji zapisujemy w dzienniku możliwe dalsze działania fabularne - questy / zahaczki. To też dobry moment na spisanie na świeżo punktowo wydarzeń z gry. Ważniejsze  miejsca / postacie będą przeze mnie przepisane z dziennika do wiki (ta strona).

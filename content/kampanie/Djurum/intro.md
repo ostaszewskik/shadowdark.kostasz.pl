@@ -43,3 +43,19 @@ Każda z postaci w jakiś sposób powiązana jest z legendą o [[Latające Miast
 Obejrzyj proszę poniższy film dla inspiracji. Następnie [[index#Tworzenie postaci | stwórz / wylosuj]] postać i zastanów się, co ona ma wspólnego z Legendą. 
 
 ![[la-puta.webp]](https://public.kostasz.pl/rpg/shadowdark/laputa-podniebny-zamek.mp4)
+
+
+# Mapa świata
+
+Zachęcam do używania mapy jako miejsca na notatki na temat lokacji i potencjalnych questów. 
+> [Link do mapy](https://docs.google.com/presentation/d/1qREd50_JDqp5YKl8Gc1VJ2AZ2c_Us2fKcjNJmbGmIP0/edit?usp=sharing)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTmKW9PJrQMcHegwgGnL6RHbKF7YIbAvUzbtE4To_trKeWDfyQs_BCXuoQVspRcbKDDmmC_n-AUmxQC/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+# Dziennik przygody
+
+Miejsce dla graczy dla prowadzenia notatek z gry.
+> [Link do dziennika](https://docs.google.com/document/d/19FCPxKWIN5pivhfuB2USNJEgou6NWa11mE8Q2hNM68s/edit?usp=sharing)
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRsPEyioHkKb5ZXZuoBug1ltKWEPe288QLtu4qw6GJhPpWgti8v-kvctXX_ugaTqJjE2tUjvZQZpN3B/pub?embedded=true" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
