@@ -6,7 +6,7 @@ socialDescription:
 draft: true
 tags:
 ---
- Testowy tajny wpis
+Testowy tajny wpis
 
 
 
