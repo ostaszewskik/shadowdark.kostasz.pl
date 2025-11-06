@@ -3,3 +3,12 @@ Tawerna / Kasyno w [[Thraxis]].
 Uczciwy hazard - kto oszukuje na kościach ma łamane ręce. 
 
 Pod tawerną znajduje się pradawny Loch - wejście do niego zostało zamurowane. Właściciel chętnie zatrudni szaleńców do zbadania jego zawartości. 
+
+Karczmarz [[Adil]] 
+Pracuje tam [[Josuf]]
+
+
+Loch:
+Imiona rodów
+Al-Hassan
+Karim

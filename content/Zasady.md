@@ -16,3 +16,10 @@ tags:
 	- Przerzutu
 	- Zyskania ADV
 	- Maksymalizowania obrażeń z kości
+
+
+* Gracze muszą jasno zadeklarować, że śpią w zbroi. Jeśli śpią, rano rzucają na CON
+	* Zborja lekka - DC 12
+	* Zbroja średnia - DC 15
+	* Zbroja ciężka - DC 18
+  Jeśli nie zdadzą, cały następny dzień są **zmęczeni** (nie regenerują HP, -1 do rzutów)

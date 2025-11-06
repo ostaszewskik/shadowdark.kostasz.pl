@@ -1,0 +1,1 @@
+Szelma z [[Brudne Ostrze]] zarządzający kasynem
