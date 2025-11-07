@@ -7,10 +7,4 @@ Pod tawerną znajduje się pradawny Loch - wejście do niego zostało zamurowane
 Karczmarz [[Adil]] 
 Pracuje tam [[Josuf]]
 
-
-Loch:
-Imiona rodów
-Al-Hassan
-Karim
-
 W piwnicy znajduje się zamurowane wejście do [[Loch pod Brudnym Ostrzem]] 
