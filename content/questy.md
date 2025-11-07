@@ -15,7 +15,7 @@ Lista aktywnych zadań / zahaczek fabularnych dla graczy (kolejność względem 
 
 
 - [ ] [[Wyjące Jaskinie]] - dostarczenie potężnej księgi z wiedzą tajemna dla [[Amar]]  
-- [ ] Wioska gdzie niby można wyleczyć [[Spit Gitz]], oraz wszystkich wysączonych przez [[Przeciwnicy#Ghost|ducha]] która znajduje się na południowy wschód od [[Thraxis]]
+- [ ] Wioska gdzie niby można wyleczyć [[Spit Gitz]], oraz wszystkich wysączonych przez ducha która znajduje się na południowy wschód od [[Thraxis]]
 - [ ] Odnalezienie i pochowanie zwłok [[Duch Pustyni |Ducha  Pustyni]]
 - [ ] Dostarczenie [[Diadem rodu Medici]] z [[Loch pod Brudnym Ostrzem]] do [[Forteca rodu Medici]]
 - [ ] Przejąć kontrolę nad [[Gildia Niewolników]] po zabiciu Borubara - oferta bezpośrednio od [[Jafarr]]

@@ -4,6 +4,6 @@ Pochodzi on z pobliskiej małej wioski, przybył do Thraxis z ok 40 lat temu. Wy
 
 Legenda gladiatorów - pyszny sobą, umięśniony, owiany wianuszkiem kobiet mimo wieku. Obwieszony złotem, coraz trudniej zobaczyć jego mistrzowski pas z powodu jest winnego/piwnego mięśnia. Przy jego boku dwie tancerki brzucha - orczyce przecudnie obfitych kształtów, przystrojone w złoto i zwiewne woale. Podczas jego przemowy do gladiatorów, [[Farghot]] spluwa mu pod nogi, rzucając tym samym oczywiste wyzwanie. 
 
-Następnego dnia odbywa się ceremonialna walka na [[Arena Gladiatorów]] z udziałem Fargota i Borubara. W jej trakcie, okazało się, że pod skórą człowieka ukrywa się [[Przeciwnicy#Efreeti| Ifryt]]. Ostatecznie został pokonany włócznią rzuconą [[Merev]]. Od tego czasu zaczął nękać go wizjami, by ten przejął po nim schedę. 
+Następnego dnia odbywa się ceremonialna walka na [[Arena Gladiatorów]] z udziałem Fargota i Borubara. W jej trakcie, okazało się, że pod skórą człowieka ukrywa się Ifryt. Ostatecznie został pokonany włócznią rzuconą [[Merev]]. Od tego czasu zaczął nękać go wizjami, by ten przejął po nim schedę. 
 
 Jego prawą ręką jest [[Zraka]]. 
