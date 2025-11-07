@@ -1,0 +1,1 @@
+Prawa ręka [[Borubar]], wice [[Gildia Niewolników]]. Po śmierci przywódcy będzie dążył do bycia jej nowym przewodzącym mimo prawa nakazującego przejęcie pozycji przez zwycięzcę pojedynku. 

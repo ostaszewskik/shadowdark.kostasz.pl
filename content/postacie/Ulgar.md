@@ -1,0 +1,1 @@
+Uzdrowiciel z [[Alkesh]]. Może odczarowywać uroki. 

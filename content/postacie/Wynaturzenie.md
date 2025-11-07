@@ -1,0 +1,1 @@
+Faktyczny przywódca [[Kult Memnona]]. [[Przeciwnicy#Aboleth]] kontrolujący umysły, powoli zdobywający wpływy w [[Thraxis]]. Miał siedzibę w [[Loch pod Brudnym Ostrzem]]. 

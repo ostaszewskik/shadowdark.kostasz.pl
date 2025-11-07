@@ -44,6 +44,10 @@ Obejrzyj proszę poniższy film dla inspiracji. Następnie [[index#Tworzenie pos
 
 ![[la-puta.webp]](https://public.kostasz.pl/rpg/shadowdark/laputa-podniebny-zamek.mp4)
 
+# Questy
+
+Lista aktywnych [[questy|questów]]. 
+
 
 # Mapa świata
 

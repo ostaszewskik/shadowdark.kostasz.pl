@@ -12,3 +12,5 @@ Loch:
 Imiona rodów
 Al-Hassan
 Karim
+
+W piwnicy znajduje się zamurowane wejście do [[Loch pod Brudnym Ostrzem]] 

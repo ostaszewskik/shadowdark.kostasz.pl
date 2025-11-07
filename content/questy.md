@@ -13,19 +13,25 @@ tags:
 # Aktywne questy
 Lista aktywnych zadań / zahaczek fabularnych dla graczy (kolejność względem pojawiania się w przygodzie):
 
-- [ ] Eksploracja lochu pod knajpą [[Brudne Ostrze ]]w [[Thraxis]]
+
 - [ ] [[Wyjące Jaskinie]] - dostarczenie potężnej księgi z wiedzą tajemna dla [[Amar]]  
-- [ ] Wioska gdzie niby można wyleczyć [[Spit Gitz]], która znajduje się na południowy wschód
+- [ ] Wioska gdzie niby można wyleczyć [[Spit Gitz]], oraz wszystkich wysączonych przez [[Przeciwnicy#Ghost|ducha]] która znajduje się na południowy wschód od [[Thraxis]]
 - [ ] Odnalezienie i pochowanie zwłok [[Duch Pustyni |Ducha  Pustyni]]
-- [ ] *Królewski Wielbłąd, jutro godzina 15:00, płacimy złotem* - informacja z karteczki wręczonej [[Rodr]] i [[Nafer]] przez lokalnych żebraków i rzezimieszków. 
-- [ ] Podjęcie wyzwania [[Farghot]] przez [[Borubar]] do walki na [[Arena Gladiatorów]]
-- [ ] [[Rodr]] dostaje ofertę od kontaktu z [[Kompania Handlowa]] aby [[Farghot]] poddał walkę w zamian za 200gp... lub coś, czego pragnie. 
+- [ ] Dostarczenie [[Diadem rodu Medici]] z [[Loch pod Brudnym Ostrzem]] do [[Forteca rodu Medici]]
+- [ ] Przejąć kontrolę nad [[Gildia Niewolników]] po zabiciu Borubara - oferta bezpośrednio od [[Jafarr]]
+- [ ] Odzyskać utracone zdrowie / zdjąć klątwę u uzdrowiciela [[Ulgar]].
 
 
 # Zakończone wątki
 - [x] Pokonać [[Minotaur]]
 - [x] Eksplorować [[Wieża Xadrika]]
 - [x] Odzyskać stopę gigantki dla [[Kompania Handlowa]] 
+- [x]  Podjęcie wyzwania [[Farghot]] przez [[Borubar]] do walki na [[Arena Gladiatorów]]
+- [x] Eksploracja lochu pod knajpą [[Brudne Ostrze ]]w [[Thraxis]]
+
+# Nieaktywne wątki
+
+- [x] [[Rodr]] dostaje ofertę od kontaktu z [[Kompania Handlowa]] aby [[Farghot]] poddał walkę w zamian za 200gp... lub coś, czego pragnie. 
 
 
 # Plotki

@@ -1,0 +1,1 @@
+Córka szefa [[Bractwo Wiedzy]]. Więziona w [[Loch pod Brudnym Ostrzem]] przez [[Kult Memnona]]. 

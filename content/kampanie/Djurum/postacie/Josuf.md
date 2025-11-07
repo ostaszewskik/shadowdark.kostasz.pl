@@ -1,1 +1,0 @@
-Karczmarz z [[Brudne Ostrze]]. Byczy facet, który nie bierze jeńców. 
