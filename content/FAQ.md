@@ -56,6 +56,9 @@ Ponieważ korzystamy z wtyczki <em>Dice So Nice!</em>, która generuje turlając
 ![[05.png]]
 
 
+## Jak podejrzeć mapę świata?
 
+W lewym górnym rogu rozwiń listę dostępnych do wglądu scen i wybierz MAPA ŚWIATA
 
+![[Zrzut ekranu 2025-11-12 o 01.09.16.webp]]
 
