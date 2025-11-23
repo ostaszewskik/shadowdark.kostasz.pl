@@ -1,5 +1,5 @@
 ---
-title: Questy
+title: Questy i Plotki
 created: 2025-09-20
 socialImage: ../../_data/quest-giver.webp
 socialDescription: Lista aktywnych questów w kampanii Piaski Czasu
