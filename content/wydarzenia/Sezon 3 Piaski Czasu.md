@@ -29,5 +29,5 @@ Link do pełnego dziennika kampanii: [Google Docs](https://docs.google.com/docum
 ## Śladami Kultu Memnona 
 
 * W trakcie eksploracji [[Loch pod Brudnym Ostrzem]] Bohaterowie pokonali [[Wynaturzenie]], które okazało się kontrolować wszystkich lub znaczną część kultystów. 
-* W Lochu odnaleziono porwaną [[Ofelia]]
+* W Lochu odnaleziono porwaną [[Ofelia van der Vert]]
 * Po śmierci Borubara 4 członków Kultu uciekło z miasta. 

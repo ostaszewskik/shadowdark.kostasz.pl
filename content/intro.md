@@ -46,7 +46,7 @@ Obejrzyj proszę poniższy film dla inspiracji. Następnie [[index#Tworzenie pos
 
 # Questy
 
-Lista aktywnych [[questy|questów]]. 
+Lista aktywnych [[Questy i plotki|questów]]. 
 
 
 # Mapa świata

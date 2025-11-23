@@ -36,7 +36,7 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 ## Przed grą
 1. Przeczytaj skrót zasad (*Cheat Shee*t - 2 strony A4) i przekartkuj podstawowe zasady gry (*Quickstart*) - wszystkie materiały dostępne na [Dysku Googla](https://drive.google.com/drive/folders/19nuvyYAhCpQs8IsSgbdFHkMfyEehNpv2?usp=drive_link)
 2. Przejrzyj (ale nie czytaj szczegółowo) [dziennik kampanii](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?usp=sharing),  zwróć zwłaszcza uwagę  na ostatnią sesję.
-3. Zobacz aktywne [[questy]].
+3. Zobacz aktywne [[Questy i plotki]].
 4. Stwórz postać ([[#Tworzenie postaci|instrukcja]] poniżej).
 5. Umów się na grę:
 	* Gramy co drugą środę. 

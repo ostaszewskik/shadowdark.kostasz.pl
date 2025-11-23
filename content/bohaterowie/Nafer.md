@@ -1,6 +1,10 @@
 ![[nafer.Avatar.webp]]
 
+Wysoki, postawny elfi szatyn, o wyraźnych rysach, dostrzegalnym czerwonym tatuażem na prawej stronie twarzy, sięgających ramion włosach. Nosi wykonaną przez niewątpliwie kaletnika-artystę skórznie, plecak, kołczan, karwasz i skórzanymi rękawicami i wysokimi butami od tego samego elfiego rzemieślnika - jego dziadka Nabila. Cała postać okryta jest grubym, ciepłym płaszczem z kapturem z obszytej tkaniny w kolorze zgniłej zieleni, na szyi ma rogowy czarny zekier na rzemieniu, po prawej stronie biodra przytroczony zdobiony kołczan, po lewej długi miecz w skórzanej pochwie. Całości dopełnia długi łuk refleksyjny z rzeźbionymi gryfami i skórzanym majdanem z artystycznymi tłoczeniami.
+
 Nafer pochodzi z odległej krainy, terenów bujnie zalesionych, obfitych w zwierzynę i w rzadkie osady istot rozumnych. Wychowali go dziadkowie mieszkający w samotnej gajówce skrytej w gęstej kniei. Dziadkowie niewiele mu opowiedziali o rodzicach, wręcz unikali tematu, jakby budził w nich bolesne wspomnienia. Dziadek, niezrównany łuczarz (Bowyer) przyuczał Nafera do fachu. Młody Elf od najmłodszych lat asystował dziadkowi w warsztacie. No właśnie dziadek, który wziął na siebie role ojcowskie nauczył Nafera strzelania z łuku, tropienia zwierzyny a nawet elementów szermierki. W dniu osiągnięcia pełnoletniości otrzymał od niego skórznie wraz z całym osprzętem, własnoręcznie wykonaną przez dziadka Nabila. Podobno przodkowie Nafera zamieszkiwali legendarne miasto w chmurach. Było to setki lat temu, a strzępy informacji które o nim posiada, pochodzą głównie z opowieści babki. Opowieści o elfich magach, założycielach miasta w chmurach Al Nazarze, Wadi Jaferze i Mazizie słuchał z wypiekami na twarzy. Nafer obecnie poszukuje latającego miasta i korzeni swojego rodu, który kiedyś odgrywał większą rolę niż spokojna egzestencja w puszczy. Podczas podróży zaciąga się jako ochrona kupców. Ma nietuzinkowe umiejętności, które potrafią mu odnależć się w każdym naturalnym terenie, od gór po pustynie.
+
+
 
 
 Posiada [[Łuk Królów Elfów]]
