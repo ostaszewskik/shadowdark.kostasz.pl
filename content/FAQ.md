@@ -62,3 +62,19 @@ W lewym górnym rogu rozwiń listę dostępnych do wglądu scen i wybierz MAPA �
 
 ![[Zrzut ekranu 2025-11-12 o 01.09.16.webp]]
 
+## Jak dodać znaczniki na mapie?
+
+![[FVTT-dodawanie-znacznikow-1.webp]]
+
+1. Kliknij Journal Notes w zasobniku w lewym górnym rogu.
+2. **Upewnij się, że przycisk "Toggle Notes Display" jest zaznaczony** (ma niebieskie tło) - bez tego pinezki nie będą widoczne w zwykłym widoku!
+3. Aby dodać pinezkę ("ikonkę") wybierz "Create Map Note".
+4. Kliknij dwukrotnie na mapie.
+5. Nadaj nazwę pinezce.
+6. **NIE** wybier opcji "Create corresponding Jornal Entry?"
+7. Kliknij Create Note, otworzy się drugie okno.
+8. Ustaw Globally Visible na tak ☑️.
+9. Opcjonalnie: zmień ikonę.
+10. Kliknij "Create Map Note"
+11. Jeśli chcesz edytować już istniejący wpis: po ustawieniu trybu Journal Notes **kliknij dwukrotnie prawym klawiszem myszy**.  
+
