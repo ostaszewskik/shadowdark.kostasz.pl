@@ -1,1 +1,1 @@
-Uzdrowiciel z [[Alkesh]]. Może odczarowywać uroki. 
+Uzdrowiciel z [[Oaza Magani]]. Może odczarowywać uroki. Porwany po [[Sezon 3 Piaski Czasu#Masakra Oazy Magani]]. 

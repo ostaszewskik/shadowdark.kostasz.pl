@@ -1,0 +1,1 @@
+Kasta kapłanów szkolących się w [[Zatopiona Świątynia]] przed jej upadkiem. Ponoć żyje ich tylko kilku w całym Djurum. 

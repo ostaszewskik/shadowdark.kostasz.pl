@@ -15,14 +15,16 @@ Lista aktywnych zadań / zahaczek fabularnych dla graczy (kolejność względem 
 
 
 - [ ] [[Wyjące Jaskinie]] - dostarczenie potężnej księgi z wiedzą tajemna dla [[Amar]]  
-- [ ] Wioska gdzie niby można wyleczyć [[Spit Gitz]], oraz wszystkich wysączonych przez ducha która znajduje się na południowy wschód od [[Thraxis]]
 - [ ] Odnalezienie i pochowanie zwłok [[Duch Pustyni |Ducha  Pustyni]]
 - [ ] Dostarczenie [[Diadem rodu Medici]] z [[Loch pod Brudnym Ostrzem]] do [[Forteca rodu Medici]]
 - [ ] Przejąć kontrolę nad [[Gildia Niewolników]] po zabiciu Borubara - oferta bezpośrednio od [[Jafarr]]
 - [ ] Odzyskać utracone zdrowie / zdjąć klątwę u uzdrowiciela [[Ulgar]].
+- [ ] Na pustyni znajduje się czarnoksiężnik zakopany żywcem. Kto go wykopie, tego czeka nagroda.
+- [ ] Zdecydować o losie [[Ofelia van der Vert]]. 
 
 
 # Zakończone wątki
+- [x] Wioska gdzie niby można wyleczyć [[Spit Gitz]], oraz wszystkich wysączonych przez ducha która znajduje się na południowy wschód od [[Thraxis]]
 - [x] Pokonać [[Minotaur]]
 - [x] Eksplorować [[Wieża Xadrika]]
 - [x] Odzyskać stopę gigantki dla [[Kompania Handlowa]] 

@@ -1,0 +1,3 @@
+Świątynia na środku jeziora nad [[Oaza Magani]]. Przed nią znajduje się zdekapitowany posąg przedstawiający mężczyznę siedzącego po turecku. Wejście znajduje się kilka metrów pod wodą.  
+
+W Świątyni działała kiedyś kasta uzdrowicieli, po której wiedzę i doświadczenie przyjeżdżali nawet najwięksi mędrcocwie z [[Thraxis]]. Niestety, szkoła została zamknięta wraz z upadkiem Świątyni, a wiedza o sztuce uzdrawiania powoli odchodzi w niepamięć wraz z ostatnimi żyjącymi [[Uzdrowiciele| Uzdrowicielami]]. 
