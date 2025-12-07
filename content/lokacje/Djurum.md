@@ -1,6 +1,6 @@
 Cały opisany pustynny region, w którym dzieje się niniejsza kampania. 
 
-Zasady specjalne (dostępne na [Dysku](https://drive.google.com/drive/folders/1H8pMk7v_uQT9vKws9rMjugCaVzVYpewj?usp=drive_link)):
+Zasady specjalne (dostępne w materiałach dodatkowych na [Dysku](https://drive.google.com/drive/folders/1H8pMk7v_uQT9vKws9rMjugCaVzVYpewj?usp=drive_link)):
 
 # Travel in the Sands
 

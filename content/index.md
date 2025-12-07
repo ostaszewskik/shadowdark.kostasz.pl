@@ -34,18 +34,19 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 # Informacja dla nowych graczy
 
 ## Przed grą
-1. Przeczytaj skrót zasad (*Cheat Shee*t - 2 strony A4) i przekartkuj podstawowe zasady gry (*Quickstart*) - wszystkie materiały dostępne na [Dysku Googla](https://drive.google.com/drive/folders/19nuvyYAhCpQs8IsSgbdFHkMfyEehNpv2?usp=drive_link)
-2. Przejrzyj (ale nie czytaj szczegółowo) [dziennik kampanii](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?usp=sharing),  zwróć zwłaszcza uwagę  na ostatnią sesję.
-3. Zobacz aktywne [[Questy i plotki]].
-4. Stwórz postać ([[#Tworzenie postaci|instrukcja]] poniżej).
-5. Umów się na grę:
+1. Przeczytaj skrót zasad (*Cheat Shee*t - 2 strony A4) i przekartkuj podstawowe zasady gry (*Quickstart*) - wszystkie materiały dostępne na [Dysku Googla](https://drive.google.com/drive/folders/1aGN65mI46XSKk3KZ8_oC4ooUzZpuj_7Q?usp=sharing)
+2. Rzuć okiem na listę aktualnych i najważniejszych [[Linki | linków]].  
+3. Przejrzyj (ale nie czytaj szczegółowo) [dziennik kampanii](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?usp=sharing),  zwróć zwłaszcza uwagę  na ostatnią sesję.
+4. Zobacz aktywne [[Questy i plotki]].
+5. Stwórz postać ([[#Tworzenie postaci|instrukcja]] poniżej).
+6. Umów się na grę:
 	* Gramy co drugą środę. 
 	* Sesje umawiamy na [Discordzie](https://discord.com/invite/5g9BE9swUR) na kanale  `#📅┃terminy-sesji`. 
-	* Jeśli chcesz dostawać powiadomienia o nadchodzących grach nadaj sobie rolę @shadowdark na kanale `#🎭┃nadaj-role`.
+	* Jeśli chcesz dostawać powiadomienia o nadchodzących grach nadaj sobie rolę **@shadowdark** na kanale `#🎭┃nadaj-role`.
 	* Sesje są ogłaszane na 6 tygodni do przodu, co środę. 
 	* Oznacz się ikonką ✅ jeśli chcesz grać w wybranym terminie.
 	* Oznacz się ikonką ❔, jeśli podejrzewasz, że możesz mieć problem z terminem, ale chcesz grać / być na liście rezerwowej.
-	* Oznacz się  ikonką ❌, jeśli deklarowałeś, że będziesz, ale zmieniły Ci się plany.
+	* Oznacz się  ikonką ❌, jeśli deklarowałeś/aś, że będziesz, ale zmieniły Ci się plany.
 	* Kwestie organizacyjne (opóźnienia, przesunięcia etc.) omawiamy w wątku dotyczącym konkretnej sesji na `#📅┃terminy-sesji`.
 
 ## W trakcie gry
@@ -54,7 +55,7 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 3. Do zapisywania bieżących wydarzeń w przygodzie / notatek dla graczy jest [Google Docs](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?tab=t.0#heading=h.n53wzr4wioay) 
 4. Do zaznaczania notatek na mapie używamy dedykowanej planszy na Foundry, do której każdy z graczy ma dostęp. 
 5. Okazjonalnie oglądamy w ramach wstępu / przerywnika fragment wideo na [Watch2Gether](https://w2g.tv/?r=dmofrlocu9eezq5eh9)
-6. Materiały i linki do aktualnej przygody są wrzucane na Discord na kanale `#🔥┃shadowdark` lub Foundry.
+6. Informacje fabularne, materiały i linki do aktualnej przygody są wrzucane na Discord na kanale `#🔥┃shadowdark` lub Foundry.
 
 ## Po grze
 1. Na koniec sesji zapisujemy w dzienniku możliwe dalsze działania fabularne - questy / zahaczki. To też dobry moment na spisanie na świeżo punktowo wydarzeń z gry. Ważniejsze  miejsca / postacie będą przeze mnie przepisane z dziennika do wiki (ta strona).
@@ -65,16 +66,16 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 
 # Tworzenie postaci
 1. Stwórz postać korzystając z generatora [https://shadowdarklings.net](https://shadowdarklings.net/settings/sources=CS2,RB,SD,SG&ancestries=1,2,3,4,5,6,7&classes=1,2,3,4,10,11,12,5,6,23) (najlepiej stwórz konto i zapisz ją sobie). Użyj źródeł adekwatnych dla aktualnej kampanii (opis i link na początku dokumentu w dzienniku).
-2. Wyeksportuj JSON i wgraj go oraz portret postaci (niemodyfikowany, niekadrowany) na Google Dysk [postacie](https://drive.google.com/open?id=19phpQgXseR2B-X9PmvdjfeCb8TjXAkgl) do folderu  **swoim <ins>discordowym</ins> nickiem** (stwórz go, jeśli taki jeszcze nie istnieje)
+2. Wyeksportuj JSON i wgraj go oraz portret postaci (niemodyfikowany, niekadrowany) na Google Dysk [nowe postacie](https://drive.google.com/open?id=19phpQgXseR2B-X9PmvdjfeCb8TjXAkgl) do folderu  **swoim <ins>discordowym</ins> nickiem** (stwórz go, jeśli taki jeszcze nie istnieje)
 3. Napisz do mnie, że gotowe, a ja zakładam Ci konto na Foundry i wgrywam postać. Logujesz się na konto z Twoim nickiem bez hasła (pozostaw puste pole).
 4. Z reguły na dzień - dwa przed sesją jest uruchomione Foundry i można sobie potestować jak działa system. Uwaga: Foundry VTT nie jest przeznaczone do urządzeń mobilnych (słabo działa na smartfonach).
-5. Proszę, zapoznaj się z materiałami opisanymi wyżej w [[#Info i linki]], a przynajmniej z OnePagerem i skrótem zasad (Cheat Sheet).
-6. Szukasz pomysłu na motywację postaci? Zdobycie dużej ilości złota i sławy brzmi dobrze, nawet jeśli nieoryginalnie. Reszta może przyjść z czasem. Jeśli już coś wymyślisz, zapisz w kilku zdaniach w [dzienniku](#info-i-linki) lub na karcie postaci w VTT.
+5. Proszę, zapoznaj się z materiałami opisanymi wyżej w [[intro]] i [[Linki | linki]], a przynajmniej z OnePagerem i skrótem zasad (Cheat Sheet).
+6. Szukasz pomysłu na motywację postaci? Zdobycie dużej ilości złota i sławy brzmi dobrze, nawet jeśli nieoryginalnie. Reszta może przyjść z czasem. Jeśli już coś wymyślisz, zapisz w kilku zdaniach w [dzienniku](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?usp=sharing) lub na karcie postaci w Foundry VTT.
 
 # Informacje o aktualnej kampanii
 * Bieżące notatki na temat przygód zapisujemy w [Dzienniku](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?tab=t.0#heading=h.n53wzr4wioay)  - dokumencie Google Docs. 
 * W pliku "Shadowdark: Lista Kampanii" znajduje się lista wszytskich rozegranych przygód z linkami do ich opisów - aktualnie trwająca jest wyszczególniona. 
-* Dziennik domyślnie jest chroniony przed edycją, musisz więc być zalogowany(a) na koncie Googla i kliknąć "Poproś o uprawnienia do edycji" w prawym górnym rogu Google Docs.
+* **Dziennik domyślnie jest chroniony przed edycją, musisz więc być zalogowany(a) na koncie Googla i kliknąć "Poproś o uprawnienia do edycji" w prawym górnym rogu Google Docs.**
 * Dziennik składa się z następujących części:
 	- Podsumowanie: statystyki gry
 	- Bohaterowie: spis graczy i ich postaci - dopisz _krótki_ opis swojej postaci. W miarę postępu gry modyfikuj jej motywacje. 
