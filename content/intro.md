@@ -5,6 +5,8 @@ socialImage: ../../_data/Djurum-Piaski-Czasu.webp
 socialDescription:
 draft: false
 tags:
+alias:
+  - "kampanie/Djurum/intro"
 ---
 ![[Djurum-Piaski-Czasu.webp]]
 

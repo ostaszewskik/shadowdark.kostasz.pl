@@ -1,0 +1,1 @@
+Prawa ręka [[Wadim Garbaty]] z [[Banda Wadima]]. 
