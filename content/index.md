@@ -1,6 +1,6 @@
 ---
 title: "Shadowdark: Intro"
-created: 2025-09-14
+created: 2026-09-18
 socialImage: ../../_data/shadowdark-logo.png
 socialDescription: OSRowy system, który jest „tym jak wyglądałoby staroszkolne granie, gdybystworzono je współcześnie”. Łączy założenia ODD z uproszczoną wersją mechaniki 5E.
 draft: false
@@ -36,7 +36,7 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 ## Przed grą
 1. Przeczytaj skrót zasad (*Cheat Shee*t - 2 strony A4) i przekartkuj podstawowe zasady gry (*Quickstart*) - wszystkie materiały dostępne na [Dysku Googla](https://drive.google.com/drive/folders/1aGN65mI46XSKk3KZ8_oC4ooUzZpuj_7Q?usp=sharing)
 2. Rzuć okiem na listę aktualnych i najważniejszych [[Linki | linków]].  
-3. Przejrzyj (ale nie czytaj szczegółowo) [dziennik kampanii](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?usp=sharing),  zwróć zwłaszcza uwagę  na ostatnią sesję.
+3. Przejrzyj (ale nie czytaj szczegółowo) [dziennik kampanii](https://docs.google.com/document/d/19FCPxKWIN5pivhfuB2USNJEgou6NWa11mE8Q2hNM68s/edit?usp=sharing),  zwróć zwłaszcza uwagę  na ostatnią sesję.
 4. Zobacz aktywne [[Questy i plotki]].
 5. Stwórz postać ([[#Tworzenie postaci|instrukcja]] poniżej).
 6. Umów się na grę:
@@ -52,7 +52,7 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 ## W trakcie gry
 1. Spotykamy się na kanale głosowym [Discorda](https://discord.com/invite/5g9BE9swUR). Mile widziane granie na kamerze.
 2. Używamy wirtualnego stołu [Foundry VTT](https://vtt.kostasz.pl/) do map, kart postaci, rzutów kośćmi.
-3. Do zapisywania bieżących wydarzeń w przygodzie / notatek dla graczy jest [Google Docs](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?tab=t.0#heading=h.n53wzr4wioay) 
+3. Do zapisywania bieżących wydarzeń w przygodzie / notatek dla graczy jest Google Docs (patrz: [[Linki | linki]]) 
 4. Do zaznaczania notatek na mapie używamy dedykowanej planszy na Foundry, do której każdy z graczy ma dostęp. 
 5. Okazjonalnie oglądamy w ramach wstępu / przerywnika fragment wideo na [Watch2Gether](https://w2g.tv/?r=dmofrlocu9eezq5eh9)
 6. Informacje fabularne, materiały i linki do aktualnej przygody są wrzucane na Discord na kanale `#🔥┃shadowdark` lub Foundry.
