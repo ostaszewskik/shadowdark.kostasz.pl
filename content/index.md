@@ -34,14 +34,14 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 # Informacja dla nowych graczy
 
 ## Przed grą
-1. Przeczytaj skrót zasad (*Cheat Shee*t - 2 strony A4) i przekartkuj podstawowe zasady gry (*Quickstart*) - wszystkie materiały dostępne na [Dysku Googla](https://drive.google.com/drive/folders/1aGN65mI46XSKk3KZ8_oC4ooUzZpuj_7Q?usp=sharing)
+1. Przeczytaj skrót zasad (*Cheat Shee*t - 2 strony A4) i przekartkuj podstawowe zasady gry (*Quickstart*) - wszystkie materiały dostępne na [[Linki | Dysku Googla]]
 2. Rzuć okiem na listę aktualnych i najważniejszych [[Linki | linków]].  
-3. Przejrzyj (ale nie czytaj szczegółowo) [dziennik kampanii](https://docs.google.com/document/d/19FCPxKWIN5pivhfuB2USNJEgou6NWa11mE8Q2hNM68s/edit?usp=sharing),  zwróć zwłaszcza uwagę  na ostatnią sesję.
+3. Przejrzyj (ale nie czytaj szczegółowo) [[Linki#Dziennik | dziennik]] , zwróć zwłaszcza uwagę na ostatnią sesję.
 4. Zobacz aktywne [[Questy i plotki]].
 5. Stwórz postać ([[#Tworzenie postaci|instrukcja]] poniżej).
 6. Umów się na grę:
 	* Gramy co drugą środę. 
-	* Sesje umawiamy na [Discordzie](https://discord.com/invite/5g9BE9swUR) na kanale  `#📅┃terminy-sesji`. 
+	* Sesje umawiamy na [[Linki | Discordzie]] na kanale  `#📅┃terminy-sesji`. 
 	* Jeśli chcesz dostawać powiadomienia o nadchodzących grach nadaj sobie rolę **@shadowdark** na kanale `#🎭┃nadaj-role`.
 	* Sesje są ogłaszane na 6 tygodni do przodu, co środę. 
 	* Oznacz się ikonką ✅ jeśli chcesz grać w wybranym terminie.
@@ -50,11 +50,11 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 	* Kwestie organizacyjne (opóźnienia, przesunięcia etc.) omawiamy w wątku dotyczącym konkretnej sesji na `#📅┃terminy-sesji`.
 
 ## W trakcie gry
-1. Spotykamy się na kanale głosowym [Discorda](https://discord.com/invite/5g9BE9swUR). Mile widziane granie na kamerze.
-2. Używamy wirtualnego stołu [Foundry VTT](https://vtt.kostasz.pl/) do map, kart postaci, rzutów kośćmi.
-3. Do zapisywania bieżących wydarzeń w przygodzie / notatek dla graczy jest Google Docs (patrz: [[Linki | linki]]) 
+1. Spotykamy się na kanale głosowym [[Linki | Discorda]]. Mile widziane granie na kamerze.
+2. Używamy wirtualnego stołu [[Linki | Foundry VTT]] do map, kart postaci, rzutów kośćmi.
+3. Do zapisywania bieżących wydarzeń w przygodzie / notatek dla graczy jest Google Docs (patrz: ramka na stronie [[Linki | linki]]) 
 4. Do zaznaczania notatek na mapie używamy dedykowanej planszy na Foundry, do której każdy z graczy ma dostęp. 
-5. Okazjonalnie oglądamy w ramach wstępu / przerywnika fragment wideo na [Watch2Gether](https://w2g.tv/?r=dmofrlocu9eezq5eh9)
+5. Okazjonalnie oglądamy w ramach wstępu / przerywnika fragment wideo na [[linki | Watch2Gether]]
 6. Informacje fabularne, materiały i linki do aktualnej przygody są wrzucane na Discord na kanale `#🔥┃shadowdark` lub Foundry.
 
 ## Po grze
@@ -70,10 +70,10 @@ Poniżej zamieszczam podstawowe informacje o systemie, linki do materiałów, za
 3. Napisz do mnie, że gotowe, a ja zakładam Ci konto na Foundry i wgrywam postać. Logujesz się na konto z Twoim nickiem bez hasła (pozostaw puste pole).
 4. Z reguły na dzień - dwa przed sesją jest uruchomione Foundry i można sobie potestować jak działa system. Uwaga: Foundry VTT nie jest przeznaczone do urządzeń mobilnych (słabo działa na smartfonach).
 5. Proszę, zapoznaj się z materiałami opisanymi wyżej w [[intro]] i [[Linki | linki]], a przynajmniej z OnePagerem i skrótem zasad (Cheat Sheet).
-6. Szukasz pomysłu na motywację postaci? Zdobycie dużej ilości złota i sławy brzmi dobrze, nawet jeśli nieoryginalnie. Reszta może przyjść z czasem. Jeśli już coś wymyślisz, zapisz w kilku zdaniach w [dzienniku](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?usp=sharing) lub na karcie postaci w Foundry VTT.
+6. Szukasz pomysłu na motywację postaci? Zdobycie dużej ilości złota i sławy brzmi dobrze, nawet jeśli nieoryginalnie. Reszta może przyjść z czasem. Jeśli już coś wymyślisz, zapisz w kilku zdaniach w [[Linki#Dziennik| dzienniku]] lub na karcie postaci w Foundry VTT.
 
 # Informacje o aktualnej kampanii
-* Bieżące notatki na temat przygód zapisujemy w [Dzienniku](https://docs.google.com/document/d/1oLwVdmQbuJhpigNxDqmOfIhD31zKhTzo9GPCzr_C-h4/edit?tab=t.0#heading=h.n53wzr4wioay)  - dokumencie Google Docs. 
+* Bieżące notatki na temat przygód zapisujemy w [[Linki#Dziennik | dzienniku]] - dokumencie Google Docs. 
 * W pliku "Shadowdark: Lista Kampanii" znajduje się lista wszytskich rozegranych przygód z linkami do ich opisów - aktualnie trwająca jest wyszczególniona. 
 * **Dziennik domyślnie jest chroniony przed edycją, musisz więc być zalogowany(a) na koncie Googla i kliknąć "Poproś o uprawnienia do edycji" w prawym górnym rogu Google Docs.**
 * Dziennik składa się z następujących części:

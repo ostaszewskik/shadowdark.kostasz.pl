@@ -60,4 +60,5 @@ Tak wygląda startowa mapa świata:
 # Dziennik przygody
 
 Miejsce dla graczy dla prowadzenia notatek z gry.
-> [Link do dziennika](https://docs.google.com/document/d/19FCPxKWIN5pivhfuB2USNJEgou6NWa11mE8Q2hNM68s/edit?usp=sharing)
+> [!tip]
+> Link do aktualnego [[Linki#Dziennik | dziennika]]
